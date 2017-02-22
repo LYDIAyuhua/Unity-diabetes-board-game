@@ -5,8 +5,8 @@ use the unity to create UI panel
 
 
 ## Feb 21 2017
-Start Writing a Simple Prototype of Bash the Beast’s Game \n
-What I have Done:\n
+Start Writing a Simple Prototype of Bash the Beast’s Game \\
+What I have Done:\n**
 create the basic game logic about the bash the beast. \n
 having the simplest main menu.\n
 start option can be used and construct the player, questions, characters classes\n
